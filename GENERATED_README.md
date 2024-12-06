@@ -1,16 +1,16 @@
-# sdfsdfdsf
+# This is my project title
   
   ## Description
   
-  lkjdflgkj
-lkjdflkjlgkjdfg
-dlkjfglkjdfg
+  This is my project's description
+more information
+
   
   ## Installation
   
-  lkjdfg lkjdfldflkjg 
+  This is where I put the installation instructions
 
   ## License
-  [![License: ISC](https://img.shields.io/badge/License-ISC-blue.svg)](https://opensource.org/licenses/ISC)
+  [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
 
   
