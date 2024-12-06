@@ -56,7 +56,7 @@ Following screenshots contain a sequence that illustrates how to run the program
 
 ## Demo
 
-![Demo Video]({https://drive.google.com/file/d/1EFOhiq98AZ6ChzHYssVlcGLDj1j1C7sY/view?usp=sharing})
+![Demo Video](https://drive.google.com/file/d/1EFOhiq98AZ6ChzHYssVlcGLDj1j1C7sY/view?usp=sharing)
 
 ## License
 
