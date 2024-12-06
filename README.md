@@ -56,7 +56,7 @@ Following screenshots contain a sequence that illustrates how to run the program
 
 ## Demo
 
-![Demo Video](https://drive.google.com/file/d/1EFOhiq98AZ6ChzHYssVlcGLDj1j1C7sY/preview)
+[Demo Video](https://drive.google.com/file/d/1EFOhiq98AZ6ChzHYssVlcGLDj1j1C7sY/preview)
 
 If you cannot access the video link, please access the drive.
 [Link to the drive where the video is](https://drive.google.com/drive/folders/17TdbS3oiJeFvNTJBeW5NdYFh49-HYbYe?usp=sharing)
